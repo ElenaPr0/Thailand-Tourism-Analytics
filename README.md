@@ -8,7 +8,7 @@ This interactive **BI dashboard** analyzes Thailand's tourism trends using data 
 🔹 **Data Sources:** Thai Ministry of Tourism & Sports  
 
 🚀 **Live Dashboard:** 🔗 [Click here to view](https://lookerstudio.google.com/s/vbXNoV75iZY)        
-❗ **Access Issue** ❗ If Looker Studio is blocked in your region, view the dashboard in PDF format: 🔗 [PDF Report](exported_report/Thai_tourism_report.pdf)       
+❗ **Access Issue:** If Looker Studio is blocked in your region, view the dashboard in PDF format: 🔗 [PDF Report](exported_report/Thai_tourism_report.pdf)       
 
 ---
 
