@@ -7,8 +7,8 @@ This interactive **BI dashboard** analyzes Thailand's tourism trends using data 
 🔹 **Key Metrics:** Total arrivals, hotel occupancy, revenue trends, high vs. low season insights  
 🔹 **Data Sources:** Thai Ministry of Tourism & Sports  
 
-🚀 **Live Dashboard:** [🔗 Click here to view [(Google Looker Studio)](https://lookerstudio.google.com/s/vbXNoV75iZY)]    
-❗ **Access Issue** ❗ If Looker Studio is blocked in your region, view the dashboard in PDF format: [🔗 Download PDF Report](your_google_drive_link_or_github_link)      
+🚀 **Live Dashboard:** 🔗 [Click here to view](https://lookerstudio.google.com/s/vbXNoV75iZY)        
+❗ **Access Issue** ❗ If Looker Studio is blocked in your region, view the dashboard in PDF format: 🔗 [PDF Report](exported_report/Thai_tourism_report.pdf)       
 
 ---
 
