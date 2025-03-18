@@ -3,7 +3,7 @@
 ### 📌 Project Overview  
 This interactive **BI dashboard** analyzes Thailand's tourism trends using data from **2018 to mid-2023**. It provides insights into **tourist flows, revenue distribution, seasonal patterns, and regional performance**.  
 
-🔹 **Tools Used:** Looker Studio, SQL, Python, Excel  
+🔹 **Tools Used:** Looker Studio, Python, Excel  
 🔹 **Key Metrics:** Total arrivals, hotel occupancy, revenue trends, high vs. low season insights  
 🔹 **Data Sources:** Thai Ministry of Tourism & Sports  
 
