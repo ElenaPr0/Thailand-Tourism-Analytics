@@ -24,7 +24,7 @@ This interactive **BI dashboard** analyzes Thailand's tourism trends using data 
 ### 🛠 Repository Structure  
 📂 **/datasets/** → Raw and cleaned datasets used in the project  
 📂 **/notebooks/** → Python scripts for additional data analysis  
-📂 **/pdf report/** → Python scripts for additional data analysis   
+📂 **/exported_report/** → Python scripts for additional data analysis   
 📂 **/screenshots/** → Key visualizations from Looker Studio  
 
 ---
