@@ -5,7 +5,7 @@ This interactive **BI dashboard** analyzes Thailand's tourism trends using data 
 
 🔹 **Tools Used:** Looker Studio, Python, Excel  
 🔹 **Key Metrics:** Total arrivals, hotel occupancy, revenue trends, high vs. low season insights  
-🔹 **Data Sources:** Thai Ministry of Tourism & Sports  
+🔹 **Data Sources:** [Open Government Data of Thailand](https://data.go.th), Kaggle   
 
 🚀 **Live Dashboard:** 🔗 [Click here to view](https://lookerstudio.google.com/s/vbXNoV75iZY)        
 ❗ **Access Issue:** If Looker Studio is blocked in your region, view the dashboard in PDF format: 🔗 [PDF Report](exported_report/Thai_tourism_report.pdf)       
@@ -24,8 +24,7 @@ This interactive **BI dashboard** analyzes Thailand's tourism trends using data 
 ### 🛠 Repository Structure  
 📂 **/datasets/** → Raw and cleaned datasets used in the project  
 📂 **/notebooks/** → Python scripts for additional data analysis  
-📂 **/exported_report/** → Python scripts for additional data analysis   
-📂 **/screenshots/** → Key visualizations from Looker Studio  
+📂 **/exported_report/** → PDF version of the report from Looker Studio  
 
 ---
 
